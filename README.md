@@ -30,5 +30,5 @@ Press "up" for clockwisely rotate the block, and "a" for counter-clockwisely rot
 
 ### WaveReflectionSimulator
 Studying boundary behaviour which can be simulated by a wave travelling through a string. \
-The string can be fixed-end or free-end(in production).\
+The string can be fixed-end or free-end.\
 Want to build a visualized simulator to mimic the situation and found interactive Jupyter very interesting.
